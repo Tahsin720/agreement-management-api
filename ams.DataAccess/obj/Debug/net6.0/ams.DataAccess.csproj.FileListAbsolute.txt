@@ -1,0 +1,15 @@
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.csproj.AssemblyReference.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.AssemblyInfoInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.AssemblyInfo.cs
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.csproj.CoreCompileInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\bin\Debug\net6.0\ams.DataAccess.deps.json
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\bin\Debug\net6.0\ams.DataAccess.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\bin\Debug\net6.0\ams.DataAccess.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\bin\Debug\net6.0\ams.Models.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\bin\Debug\net6.0\ams.Models.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.csproj.CopyComplete
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\refint\ams.DataAccess.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ams.DataAccess.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.DataAccess\obj\Debug\net6.0\ref\ams.DataAccess.dll

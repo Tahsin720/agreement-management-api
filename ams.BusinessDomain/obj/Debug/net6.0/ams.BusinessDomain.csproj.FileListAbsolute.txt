@@ -1,0 +1,12 @@
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\bin\Debug\net6.0\ams.BusinessDomain.deps.json
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\bin\Debug\net6.0\ams.BusinessDomain.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\bin\Debug\net6.0\ams.BusinessDomain.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.csproj.AssemblyReference.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.GeneratedMSBuildEditorConfig.editorconfig
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.AssemblyInfoInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.AssemblyInfo.cs
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.csproj.CoreCompileInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\refint\ams.BusinessDomain.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ams.BusinessDomain.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.BusinessDomain\obj\Debug\net6.0\ref\ams.BusinessDomain.dll

@@ -1,0 +1,12 @@
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\bin\Debug\net6.0\ams.Models.deps.json
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\bin\Debug\net6.0\ams.Models.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\bin\Debug\net6.0\ams.Models.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.csproj.AssemblyReference.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.GeneratedMSBuildEditorConfig.editorconfig
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.AssemblyInfoInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.AssemblyInfo.cs
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.csproj.CoreCompileInputs.cache
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\refint\ams.Models.dll
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ams.Models.pdb
+J:\Arena Phone Bd\AgreementManagement\AgreementManagement\ams.Models\obj\Debug\net6.0\ref\ams.Models.dll

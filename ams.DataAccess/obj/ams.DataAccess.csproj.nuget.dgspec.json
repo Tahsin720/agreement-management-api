@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.DataAccess\\ams.DataAccess.csproj": {}
+  },
+  "projects": {
+    "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.DataAccess\\ams.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.DataAccess\\ams.DataAccess.csproj",
+        "projectName": "ams.DataAccess",
+        "projectPath": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.DataAccess\\ams.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Brinto\\.nuget\\packages\\",
+        "outputPath": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\ams.Models.csproj": {
+                "projectPath": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\ams.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\ams.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\ams.Models.csproj",
+        "projectName": "ams.Models",
+        "projectPath": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\ams.Models.csproj",
+        "packagesPath": "C:\\Users\\Brinto\\.nuget\\packages\\",
+        "outputPath": "J:\\Arena Phone Bd\\AgreementManagement\\AgreementManagement\\ams.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
